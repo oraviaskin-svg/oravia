@@ -83,6 +83,7 @@
         "logo_Xmmgrf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Allure_66a113b9-0969-4f8f-a607-a1bb2af57863.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -90,6 +91,7 @@
         "logo_dfdRt6": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/vogue_0d2782bd-1d73-47bd-89bd-334df51924d2.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -97,6 +99,7 @@
         "logo_wdFV6b": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/grazia_903e2915-484b-4095-8aa6-308e604c5f36.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -104,7 +107,24 @@
         "logo_twwzAf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/glamour_8dc1d894-32c6-4fd5-b575-8893b9693125.svg",
             "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_4LAyai": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Vanity_Fair_c89cd73b-8e75-4237-adf3-d4189519b584.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_EhWF3e": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
+            "logo_width": 150,
             "link": ""
           }
         }
@@ -113,16 +133,18 @@
         "logo_Xmmgrf",
         "logo_dfdRt6",
         "logo_wdFV6b",
-        "logo_twwzAf"
+        "logo_twwzAf",
+        "logo_4LAyai",
+        "logo_EhWF3e"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "title": "Logo list",
+        "stack_mobile": false,
+        "title": "Come visto su :",
         "content": "",
-        "text_alignment": "start",
-        "items_per_row": 5,
+        "text_alignment": "center",
+        "items_per_row": 6,
         "background": "",
         "background_gradient": "",
         "text_color": "",
