@@ -153,11 +153,40 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "image_with_text_overlay_qXCfGP": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_6Jzg4y": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_6Jzg4y"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/benefices_oravia.png",
+        "mobile_image": "shopify://shop_images/ORAVIA_2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "featured-collection",
     "image_with_text_overlay_wRw6BV",
-    "logo_list_Rthzrd"
+    "logo_list_Rthzrd",
+    "image_with_text_overlay_qXCfGP"
   ]
 }
