@@ -156,17 +156,6 @@
     },
     "image_with_text_overlay_qXCfGP": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_6Jzg4y": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_6Jzg4y"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -181,12 +170,54 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "rich_text_Vr7Dig": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_34hxyJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Risultati in tempo reale",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_34hxyJ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_qF4WiV": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "featured-collection",
     "image_with_text_overlay_wRw6BV",
     "logo_list_Rthzrd",
-    "image_with_text_overlay_qXCfGP"
+    "image_with_text_overlay_qXCfGP",
+    "rich_text_Vr7Dig",
+    "video_qF4WiV"
   ]
 }
