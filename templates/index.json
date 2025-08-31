@@ -203,12 +203,137 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/oravia en action.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_wGYmdk": {
+      "type": "multi-column",
+      "blocks": {
+        "item_3UDeMN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2613.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rWxyn3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2618.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FgJzLn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2606.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_3UDeMN",
+        "item_rWxyn3",
+        "item_FgJzLn"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Cosa dicono i nostri clienti",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_Qh3rFc": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JB6wiW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2605.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ic3yMM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2616.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AUk6NL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2615.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JB6wiW",
+        "item_ic3yMM",
+        "item_AUk6NL"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
@@ -218,6 +343,8 @@
     "logo_list_Rthzrd",
     "image_with_text_overlay_qXCfGP",
     "rich_text_Vr7Dig",
-    "video_qF4WiV"
+    "video_qF4WiV",
+    "multi_column_wGYmdk",
+    "multi_column_Qh3rFc"
   ]
 }
