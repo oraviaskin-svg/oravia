@@ -419,6 +419,12 @@
             "payment_button_text_color": "#f0c417"
           }
         },
+        "countdown_timer_essential_app_block_rPYpeL": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmf1mjkph0031z03nw9vo4q1o"
+          }
+        },
         "pickup_availability_8gj3RC": {
           "type": "pickup_availability",
           "settings": {}
@@ -437,6 +443,7 @@
         "variant_picker_PtdJ6e",
         "quantity_selector_bLn8Ve",
         "buy_buttons_7PyMJE",
+        "countdown_timer_essential_app_block_rPYpeL",
         "pickup_availability_8gj3RC"
       ],
       "name": "Featured product",
