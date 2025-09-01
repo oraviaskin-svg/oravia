@@ -336,108 +336,80 @@
         "text_color": ""
       }
     },
-    "featured_product_7JDn48": {
-      "type": "featured-product",
+    "multi_column_yUhqJg": {
+      "type": "multi-column",
       "blocks": {
-        "vendor_iyQnDw": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_6AUt6K": {
-          "type": "title",
+        "item_h76Kz3": {
+          "type": "item",
           "settings": {
-            "heading_tag": "h2"
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-03-05T231749.268.png",
+            "column_size": "4",
+            "title": "Luce LED Rossa & Massaggio Sonico (10.000 giri/min)",
+            "heading_tag": "h5",
+            "content": "<ul><li>Stimola naturalmente il collagene per rassodare e liftare la zona delicata del contorno occhi</li><li>Attiva la microcircolazione, riducendo borse e segni di stanchezza in meno di 60 secondi</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "badges_H4mDJ7": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_3gLdL9": {
-          "type": "price",
+        "item_yecV3h": {
+          "type": "item",
           "settings": {
-            "show_taxes_notice": false
+            "image": "shopify://shop_images/BEFORE_20.png",
+            "column_size": "4",
+            "title": "Acetyl Hexapeptide-8 & Complesso Peptidico",
+            "heading_tag": "h5",
+            "content": "<ul><li>Rinforza la struttura dermica per riempire le rughe sottili e levigare le “zampe di gallina”</li><li>Migliora l’elasticità della pelle, aiutando occhi e collo a resistere a cedimenti e perdita di tono</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "rating_f7hk6j": {
-          "type": "rating",
+        "item_CLW7gi": {
+          "type": "item",
           "settings": {
-            "show_empty": false
+            "image": "shopify://shop_images/Coc_Beauty_11.png",
+            "column_size": "4",
+            "title": "Caffeina & Booster di Collagene Antiossidante",
+            "heading_tag": "h5",
+            "content": "<ul><li>Riattiva il microcircolo per attenuare le occhiaie e illuminare l’incarnato</li><li>Protegge dallo stress ossidativo, mantenendo la pelle giovane e resistente</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "separator_BwEbDj": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_qdGr96": {
-          "type": "description",
+        "item_AApWWp": {
+          "type": "item",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "image": "shopify://shop_images/Coc_Beauty_12.png",
+            "column_size": "4",
+            "title": "Acido Ialuronico & Scudo Idratante alla Glicerina",
+            "heading_tag": "h5",
+            "content": "<ul><li>Richiama idratazione profonda, levigando istantaneamente rughe e secchezza</li><li>Trattiene l’umidità sotto una barriera leggera, lasciando la pelle morbida e pronta per il make-up</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
-        },
-        "variant_picker_BLnnbA": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_jLirrR": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_kwapwe": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_9jg7Vh": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_iyQnDw",
-        "title_6AUt6K",
-        "badges_H4mDJ7",
-        "price_3gLdL9",
-        "rating_f7hk6j",
-        "separator_BwEbDj",
-        "description_qdGr96",
-        "variant_picker_BLnnbA",
-        "quantity_selector_jLirrR",
-        "buy_buttons_kwapwe",
-        "pickup_availability_9jg7Vh"
+        "item_h76Kz3",
+        "item_yecV3h",
+        "item_CLW7gi",
+        "item_AApWWp"
       ],
-      "name": "Featured product",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "product": "oraskin-firming-neck-cream",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Perché funziona così bene?",
+        "content": "<p><em>Scopri come i nostri ingredienti supportati dalla scienza lavorano in armonia per rinnovare e proteggere la tua pelle.</em></p>",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "text_color": ""
       }
     }
   },
@@ -450,6 +422,6 @@
     "video_qF4WiV",
     "multi_column_wGYmdk",
     "multi_column_Qh3rFc",
-    "featured_product_7JDn48"
+    "multi_column_yUhqJg"
   ]
 }
