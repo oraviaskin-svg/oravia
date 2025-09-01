@@ -23,7 +23,7 @@
             "icon_background_type": "circle",
             "icon_background": "#e6d4a0",
             "icon_color": "",
-            "title": "Spedizione gratuita",
+            "title": "Consegna gratuita",
             "content": ""
           }
         },
@@ -36,7 +36,7 @@
             "icon_background_type": "circle",
             "icon_background": "#e6d4a0",
             "icon_color": "#000000",
-            "title": "Servizio clienti 7/7",
+            "title": "Assistenza clienti 7/7",
             "content": ""
           }
         },
@@ -62,7 +62,7 @@
             "icon_background_type": "circle",
             "icon_background": "#e6d4a0",
             "icon_color": "",
-            "title": "Pagamento sicuro",
+            "title": "Pagamento 100% sicuro",
             "content": ""
           }
         }
@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Iscriviti per nuove storie e offerte personalizzate",
+            "title": "Iscriviti per storie esclusive e offerte personalizzate",
             "content": ""
           }
         },
@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Contattaci",
-            "content": "<p><strong>Servizio clienti :<br/> </strong><a><strong>oraviaskin@gmail.com</strong></a></p><p><strong>Lunedì – Venerdì:</strong> 9:00 – 12:00 / 14:00 – 18:00<br/><strong>Sabato – Domenica:</strong> 10:00 – 12:00</p>",
+            "title": "Contatti",
+            "content": "<p><strong>Servizio clienti:<br/></strong> <a href=\"mailto:oraviaskin@gmail.com\">oraviaskin@gmail.com</a></p><p><strong>Orari di assistenza: Lunedì – Venerdì:</strong> 9:00 – 12:00 / 14:00 – 18:00<br/><strong>Sabato – Domenica:</strong> 10:00 – 12:00</p>",
             "enable_follow_on_shop": true
           }
         }
