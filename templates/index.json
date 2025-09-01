@@ -411,6 +411,112 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "featured_product_WgiHhN": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_NpgGzy": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400; /* Koyu yeşil border */\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px; /* Increased size for the star image */\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENTE\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.4/5 Rating\">\n        <span class=\"rating-text\">Valutato 4,4/5 su</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>"
+          }
+        },
+        "title_RmMKUE": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_A9mnxh": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_YGf44t": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_dxBfVn": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_4nHgdN": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_rBLFhf": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_PtdJ6e": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_bLn8Ve": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_7PyMJE": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_8gj3RC": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_NpgGzy",
+        "title_RmMKUE",
+        "badges_A9mnxh",
+        "price_YGf44t",
+        "rating_dxBfVn",
+        "separator_4nHgdN",
+        "description_rBLFhf",
+        "variant_picker_PtdJ6e",
+        "quantity_selector_bLn8Ve",
+        "buy_buttons_7PyMJE",
+        "pickup_availability_8gj3RC"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "oravia-skin-radiance-duo",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -422,6 +528,7 @@
     "video_qF4WiV",
     "multi_column_wGYmdk",
     "multi_column_Qh3rFc",
-    "multi_column_yUhqJg"
+    "multi_column_yUhqJg",
+    "featured_product_WgiHhN"
   ]
 }
