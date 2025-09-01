@@ -611,22 +611,22 @@
         "item_WkPkaP": {
           "type": "item",
           "settings": {
-            "title": "I prodotti sono naturali?",
-            "content": "<p>Sì, utilizziamo solo ingredienti di origine naturale, senza parabeni, siliconi aggressivi o sostanze nocive. La tua pelle merita il meglio, in totale sicurezza.<br/></p>"
+            "title": "I prodotti sono a base naturale?",
+            "content": "<p>Assolutamente sì: solo ingredienti naturali selezionati, zero parabeni, zero siliconi aggressivi, zero sostanze nocive. La tua pelle merita solo il meglio.</p>"
           }
         },
         "item_HBtQw4": {
           "type": "item",
           "settings": {
-            "title": "I prodotti sono adatti a tutti i tipi di pelle?",
-            "content": "<p>Sì, la nostra routine è stata formulata per adattarsi a tutti i tipi di pelle: secca, grassa, mista o sensibile. Ogni ingrediente è selezionato per essere delicato ed efficace senza causare irritazioni.</p>"
+            "title": "Vanno bene per ogni tipo di pelle?",
+            "content": "<p>Assolutamente: la routine è studiata per ogni tipo di pelle - secca, grassa, mista o sensibile. Ingredienti delicati ma potenti, zero rischio irritazioni</p>"
           }
         },
         "item_CKVBmA": {
           "type": "item",
           "settings": {
-            "title": "Quali sono i tempi di consegna?",
-            "content": "<p>La consegna richiede in media <strong>da 3 a 8 giorni lavorativi</strong>, a seconda della zona. Riceverai un link di tracciamento per seguire il tuo pacco in tempo reale.</p>"
+            "title": "In quanto tempo arriva?",
+            "content": "<p>Ricevi tutto in 3-8 giorni lavorativi, ovunque tu sia. Tracciamento automatico per sapere sempre dov'è il tuo pacco.</p>"
           }
         }
       },
