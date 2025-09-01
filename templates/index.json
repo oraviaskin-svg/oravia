@@ -407,6 +407,12 @@
             "liquid": "<div class=\"sale-banner\">\n  <p><strong>Saldi di fine anno:</strong></p>\n  <p> -50% sul Radiance Duo + Spedizione gratuita 🚚</p>\n</div>\n\n<style>\n.sale-banner {\n  border: 2px dashed black;\n  padding: 14px;\n  background-color: #FAFAFA;\n  width: fit-content;\n  font-family: Arial, sans-serif;\n  border-radius: 6px;\n}\n\n.sale-banner p {\n  margin: 0;\n  font-size: 14px;\n  color: black;\n}\n\n.sale-banner p strong {\n  font-size: 16px;\n  color: black;\n}\n</style>"
           }
         },
+        "kaching_bundles_app_block_bKxYBL": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "oraskin-radiance-eye-cream"
+          }
+        },
         "buy_buttons_7PyMJE": {
           "type": "buy_buttons",
           "settings": {
@@ -416,12 +422,6 @@
             "atc_button_text_color": "#000000",
             "payment_button_background": "#f0c417",
             "payment_button_text_color": "#f0c417"
-          }
-        },
-        "kaching_bundles_app_block_bKxYBL": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "oraskin-radiance-eye-cream"
           }
         },
         "pickup_availability_8gj3RC": {
@@ -441,8 +441,8 @@
         "variant_picker_PtdJ6e",
         "quantity_selector_bLn8Ve",
         "liquid_wNU4rf",
-        "buy_buttons_7PyMJE",
         "kaching_bundles_app_block_bKxYBL",
+        "buy_buttons_7PyMJE",
         "pickup_availability_8gj3RC"
       ],
       "name": "Featured product",
