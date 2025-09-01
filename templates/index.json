@@ -162,8 +162,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefices_oravia.png",
-        "mobile_image": "shopify://shop_images/ORAVIA_2.png",
+        "image": "shopify://shop_images/benefices_oraviav2.png",
+        "mobile_image": "shopify://shop_images/benorav2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -690,9 +690,9 @@
     "video_qF4WiV",
     "multi_column_wGYmdk",
     "multi_column_Qh3rFc",
-    "multi_column_yUhqJg",
     "featured_product_WgiHhN",
     "tabs_Y4YaWr",
+    "multi_column_yUhqJg",
     "faq_FQgcwK",
     "contact_RE67Xh"
   ]
