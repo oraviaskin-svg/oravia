@@ -336,82 +336,6 @@
         "text_color": ""
       }
     },
-    "multi_column_yUhqJg": {
-      "type": "multi-column",
-      "blocks": {
-        "item_h76Kz3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-03-05T231749.268.png",
-            "column_size": "4",
-            "title": "Luce LED Rossa & Massaggio Sonico (10.000 giri/min)",
-            "heading_tag": "h5",
-            "content": "<ul><li>Stimola naturalmente il collagene per rassodare e liftare la zona delicata del contorno occhi</li><li>Attiva la microcircolazione, riducendo borse e segni di stanchezza in meno di 60 secondi</li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yecV3h": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/BEFORE_20.png",
-            "column_size": "4",
-            "title": "Acetyl Hexapeptide-8 & Complesso Peptidico",
-            "heading_tag": "h5",
-            "content": "<ul><li>Rinforza la struttura dermica per riempire le rughe sottili e levigare le “zampe di gallina”</li><li>Migliora l’elasticità della pelle, aiutando occhi e collo a resistere a cedimenti e perdita di tono</li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_CLW7gi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Coc_Beauty_11.png",
-            "column_size": "4",
-            "title": "Caffeina & Booster di Collagene Antiossidante",
-            "heading_tag": "h5",
-            "content": "<ul><li>Riattiva il microcircolo per attenuare le occhiaie e illuminare l’incarnato</li><li>Protegge dallo stress ossidativo, mantenendo la pelle giovane e resistente</li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AApWWp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Coc_Beauty_12.png",
-            "column_size": "4",
-            "title": "Acido Ialuronico & Scudo Idratante alla Glicerina",
-            "heading_tag": "h5",
-            "content": "<ul><li>Richiama idratazione profonda, levigando istantaneamente rughe e secchezza</li><li>Trattiene l’umidità sotto una barriera leggera, lasciando la pelle morbida e pronta per il make-up</li></ul>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_h76Kz3",
-        "item_yecV3h",
-        "item_CLW7gi",
-        "item_AApWWp"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Perché funziona così bene?",
-        "content": "<p><em>Scopri come i nostri ingredienti supportati dalla scienza lavorano in armonia per rinnovare e proteggere la tua pelle.</em></p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_WgiHhN": {
       "type": "featured-product",
       "blocks": {
@@ -596,6 +520,82 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "multi_column_yUhqJg": {
+      "type": "multi-column",
+      "blocks": {
+        "item_h76Kz3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-03-05T231749.268.png",
+            "column_size": "4",
+            "title": "Tecnologia LED Rossa + Vibrazione Sonica 10.000 giri/min",
+            "heading_tag": "h5",
+            "content": "<p>Stimola la produzione naturale di collagene per rassodare e tonificare il delicato contorno occhi</p><p>Riattiva la microcircolazione eliminando borse e segni di stanchezza in soli 60 secondi</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yecV3h": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/BEFORE_20.png",
+            "column_size": "4",
+            "title": "Acetil Esapeptide-8 e Complesso Peptidico Avanzato",
+            "heading_tag": "h5",
+            "content": "<p>Ristruttura il derma in profondità riducendo rughe e linee d'espressione del contorno occhi</p><p>Ripristina elasticità e tonicità per un viso e collo visibilmente più sodi</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_CLW7gi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Coc_Beauty_11.png",
+            "column_size": "4",
+            "title": "Complesso Caffeinato Anti-Gonfiore + Attivatore di Collagene",
+            "heading_tag": "h5",
+            "content": "<p>Riattiva la circolazione per eliminare le occhiaie e donare luminosità naturale</p><p>Scudo antiossidante contro l'invecchiamento per una pelle giovane e protetta</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AApWWp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Coc_Beauty_12.png",
+            "column_size": "4",
+            "title": "Acido Ialuronico & Scudo Idratante alla Glicerina",
+            "heading_tag": "h5",
+            "content": "<ul><li>Richiama idratazione profonda, levigando istantaneamente rughe e secchezza</li><li>Trattiene l’umidità sotto una barriera leggera, lasciando la pelle morbida e pronta per il make-up</li></ul>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_h76Kz3",
+        "item_yecV3h",
+        "item_CLW7gi",
+        "item_AApWWp"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Perché funziona così bene?",
+        "content": "<p><em>Scopri come i nostri ingredienti supportati dalla scienza lavorano in armonia per rinnovare e proteggere la tua pelle.</em></p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq_FQgcwK": {
