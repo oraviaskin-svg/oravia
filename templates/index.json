@@ -231,7 +231,7 @@
         "item_rWxyn3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_2618.jpg",
+            "image": "shopify://shop_images/IMG_2626.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -277,6 +277,19 @@
     "multi_column_Qh3rFc": {
       "type": "multi-column",
       "blocks": {
+        "item_ic3yMM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2628.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_JB6wiW": {
           "type": "item",
           "settings": {
@@ -290,23 +303,10 @@
             "link_style": "link"
           }
         },
-        "item_ic3yMM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2616.jpg",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_AUk6NL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_2615.jpg",
+            "image": "shopify://shop_images/IMG_2625.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -318,8 +318,8 @@
         }
       },
       "block_order": [
-        "item_JB6wiW",
         "item_ic3yMM",
+        "item_JB6wiW",
         "item_AUk6NL"
       ],
       "name": "Multi-column",
