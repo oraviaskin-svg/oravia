@@ -335,6 +335,110 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "featured_product_7JDn48": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_iyQnDw": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_6AUt6K": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_H4mDJ7": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_3gLdL9": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_f7hk6j": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_BwEbDj": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_qdGr96": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_BLnnbA": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_jLirrR": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_kwapwe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_9jg7Vh": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_iyQnDw",
+        "title_6AUt6K",
+        "badges_H4mDJ7",
+        "price_3gLdL9",
+        "rating_f7hk6j",
+        "separator_BwEbDj",
+        "description_qdGr96",
+        "variant_picker_BLnnbA",
+        "quantity_selector_jLirrR",
+        "buy_buttons_kwapwe",
+        "pickup_availability_9jg7Vh"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "oraskin-firming-neck-cream",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -345,6 +449,7 @@
     "rich_text_Vr7Dig",
     "video_qF4WiV",
     "multi_column_wGYmdk",
-    "multi_column_Qh3rFc"
+    "multi_column_Qh3rFc",
+    "featured_product_7JDn48"
   ]
 }
