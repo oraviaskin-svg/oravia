@@ -364,7 +364,7 @@
         "liquid_PUfBYG": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block /\n    vertical-align: middle; / Align vertically to middle /\n    font-size: 10px; / Set font size /\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; / 6px vertical, 10px horizontal /\n    border-radius: 8px; / Rounded corners /\n    display: inline-block; / Display as inline-block /\n    text-align: center; / Center align the content /\n    margin: 0 auto; / Horizontally center the red-div /\n  }\n\n  .text {\n    display: inline-block; / Display as inline-block /\n    vertical-align: middle; / Align vertically to middle /\n    margin-left: 10px; / Add some space between the dot and the text /\n    color: #AD0000; / Text color /\n    font-weight: 500; / Medium font weight /\n    font-size: 12px; / Set font size /\n    text-align: justify; / Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 3 Unités</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Ultimi 8 disponibili !</div>\n</div>"
           }
         },
         "kaching_bundles_app_block_bKxYBL": {
@@ -419,12 +419,6 @@
             "payment_button_text_color": "#f0c417"
           }
         },
-        "countdown_timer_essential_app_block_rPYpeL": {
-          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmf1mjkph0031z03nw9vo4q1o"
-          }
-        },
         "pickup_availability_8gj3RC": {
           "type": "pickup_availability",
           "settings": {}
@@ -443,7 +437,6 @@
         "variant_picker_PtdJ6e",
         "quantity_selector_bLn8Ve",
         "buy_buttons_7PyMJE",
-        "countdown_timer_essential_app_block_rPYpeL",
         "pickup_availability_8gj3RC"
       ],
       "name": "Featured product",
