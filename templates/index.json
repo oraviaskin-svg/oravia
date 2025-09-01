@@ -569,9 +569,9 @@
           "settings": {
             "image": "shopify://shop_images/Coc_Beauty_12.png",
             "column_size": "4",
-            "title": "Acido Ialuronico & Scudo Idratante alla Glicerina",
+            "title": "Idratazione Intensiva: Acido Ialuronico + Glicerina Protettiva",
             "heading_tag": "h5",
-            "content": "<ul><li>Richiama idratazione profonda, levigando istantaneamente rughe e secchezza</li><li>Trattiene l’umidità sotto una barriera leggera, lasciando la pelle morbida e pronta per il make-up</li></ul>",
+            "content": "<p>Azione fill-in immediata: rughe visibilmente ridotte e pelle ultra-liscia</p><p>Sigilla l'idratazione con texture leggera per una pelle setosa e perfetta per il trucco</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -604,8 +604,8 @@
         "item_dJt43d": {
           "type": "item",
           "settings": {
-            "title": "Quanto tempo ci vuole per vedere i primi risultati?",
-            "content": "<p><br/>Molti clienti notano miglioramenti già dopo pochi giorni: pelle più morbida, più luminosa e visibilmente più sana. Per risultati ottimali, si consiglia di seguire la routine quotidianamente per almeno 2-3 settimane.<br/><br/></p>"
+            "title": "Quando si vedono i primi risultati?",
+            "content": "<p>Risultati visibili in 72 ore: pelle immediatamente più morbida e luminosa. Per una trasformazione completa, segui il trattamento per 3 settimane consecutive.</p>"
           }
         },
         "item_WkPkaP": {
@@ -641,7 +641,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
