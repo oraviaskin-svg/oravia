@@ -560,6 +560,55 @@
             "content": "<p>Risultati visibili in 72 ore: pelle immediatamente più morbida e luminosa. Per una trasformazione completa, segui il trattamento per 3 settimane consecutive.</p>"
           }
         },
+        "item_tL7caR": {
+          "type": "item",
+          "settings": {
+            "title": "E se ho la pelle sensibile?",
+            "content": "<p>I nostri prodotti sono formulati appositamente per essere delicati e adatti anche alle pelli più sensibili. Ogni formula è testata dermatologicamente per garantire la massima tollerabilità.</p>"
+          }
+        },
+        "item_P4f4YF": {
+          "type": "item",
+          "settings": {
+            "title": "Funziona davvero o è solo marketing?",
+            "content": "<p>Riceviamo ogni giorno testimonianze autentiche da clienti soddisfatti che hanno visto la loro pelle trasformarsi visibilmente. I primi risultati si notano già dopo pochi giorni di utilizzo regolare. </p>"
+          }
+        },
+        "item_tJwbr6": {
+          "type": "item",
+          "settings": {
+            "title": "È sicuro utilizzare questi prodotti tutti i giorni?",
+            "content": "<p>Assolutamente sì. La nostra routine è studiata per l'uso quotidiano, mattina e sera, senza aggredire la pelle. La formula è naturale e priva di sostanze dannose. </p>"
+          }
+        },
+        "item_igKG4G": {
+          "type": "item",
+          "settings": {
+            "title": "I prodotti sono completamente naturali?",
+            "content": "<p>Utilizziamo ingredienti di origine naturale e attivi vegetali altamente efficaci. Senza parabeni, siliconi aggressivi o profumi sintetici. Solo ciò che fa bene alla tua pelle. </p>"
+          }
+        },
+        "item_wGL4zy": {
+          "type": "item",
+          "settings": {
+            "title": "E se non vedo risultati? Posso ottenere un rimborso?",
+            "content": "<p>Hai <strong>30 giorni</strong> per testare la routine. Se non sei completamente soddisfatto, ti rimborsiamo senza complicazioni. Zero rischi per te. </p>"
+          }
+        },
+        "item_iPFMze": {
+          "type": "item",
+          "settings": {
+            "title": "I tempi di consegna sono affidabili?",
+            "content": "<p>Spediamo entro 24/48h e la consegna avviene in <strong>3-8 giorni lavorativi</strong>. Riceverai un codice di tracciamento per seguire il tuo pacco in tempo reale. </p>"
+          }
+        },
+        "item_zebnC4": {
+          "type": "item",
+          "settings": {
+            "title": "È adatta anche durante la gravidanza o l'allattamento?",
+            "content": "<p>La formula è naturale e delicata. Tuttavia, per maggiore tranquillità, ti consigliamo di consultare il tuo medico se sei in gravidanza o in fase di allattamento. </p>"
+          }
+        },
         "item_WkPkaP": {
           "type": "item",
           "settings": {
@@ -584,6 +633,13 @@
       },
       "block_order": [
         "item_dJt43d",
+        "item_tL7caR",
+        "item_P4f4YF",
+        "item_tJwbr6",
+        "item_igKG4G",
+        "item_wGL4zy",
+        "item_iPFMze",
+        "item_zebnC4",
         "item_WkPkaP",
         "item_HBtQw4",
         "item_CKVBmA"
