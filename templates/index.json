@@ -717,7 +717,7 @@
             "column_size": "4",
             "title": "Idratazione Intensiva: Acido Ialuronico + Glicerina Protettiva",
             "heading_tag": "h5",
-            "content": "<p>Azione fill-in immediata: rughe visibilmente ridotte e pelle ultra-liscia</p><p>Sigilla l'idratazione con texture leggera per una pelle setosa e perfetta per il trucco</p>",
+            "content": "<p>Azione fill-in immediata: rughe visibilmente ridotte e pelle ultra-liscia</p><p>Sigilla l'idratazione con consistenza leggera per una pelle setosa e perfetta per il trucco</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -751,21 +751,21 @@
           "type": "item",
           "settings": {
             "title": "Quando si vedono i primi risultati?",
-            "content": "<p>Risultati visibili in 72 ore: pelle immediatamente più morbida e luminosa. Per una trasformazione completa, segui il trattamento per 3 settimane consecutive.</p>"
+            "content": "<p>Risultati visibili in <strong>72 ore</strong>: pelle immediatamente più morbida e luminosa. Per una<strong> trasformazione completa</strong>, segui il trattamento per<strong> 3 settimane consecutive</strong>.</p>"
           }
         },
         "item_tL7caR": {
           "type": "item",
           "settings": {
             "title": "E se ho la pelle sensibile?",
-            "content": "<p>I nostri prodotti sono formulati appositamente per essere delicati e adatti anche alle pelli più sensibili. Ogni formula è testata dermatologicamente per garantire la massima tollerabilità.</p>"
+            "content": "<p>I nostri prodotti sono formulati appositamente per essere<strong> delicati e adatti</strong> anche alle pelli più sensibili. Ogni formula è <strong>testata dermatologicamente </strong>per garantire la massima <strong>tollerabilità.</strong></p>"
           }
         },
         "item_P4f4YF": {
           "type": "item",
           "settings": {
             "title": "Funziona davvero o è solo marketing?",
-            "content": "<p>Riceviamo ogni giorno testimonianze autentiche da clienti soddisfatti che hanno visto la loro pelle trasformarsi visibilmente. I primi risultati si notano già dopo pochi giorni di utilizzo regolare. </p>"
+            "content": "<p>Riceviamo ogni giorno testimonianze autentiche da clienti soddisfatti che hanno visto la loro pelle trasformarsi. I primi risultati si notano già dopo pochi giorni di utilizzo regolare. </p>"
           }
         },
         "item_tJwbr6": {
@@ -786,7 +786,7 @@
           "type": "item",
           "settings": {
             "title": "E se non vedo risultati? Posso ottenere un rimborso?",
-            "content": "<p>Hai <strong>30 giorni</strong> per testare la routine. Se non sei completamente soddisfatto, ti rimborsiamo senza complicazioni. Zero rischi per te. </p>"
+            "content": "<p>Hai <strong>30 giorni</strong> per provare la routine. Se non sei completamente soddisfatto, ti rimborsiamo senza complicazioni. Zero rischi per te. </p>"
           }
         },
         "item_iPFMze": {
