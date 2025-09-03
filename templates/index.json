@@ -154,6 +154,23 @@
         "logo_item_border": ""
       }
     },
+    "image_with_text_overlay_qXCfGP": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/benefices_oraviav2.png",
+        "mobile_image": "shopify://shop_images/benorav2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_YfgKet": {
       "type": "multi-column",
       "blocks": {
@@ -286,23 +303,6 @@
         "text_color": "#000000"
       }
     },
-    "image_with_text_overlay_qXCfGP": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/benefices_oraviav2.png",
-        "mobile_image": "shopify://shop_images/benorav2.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_wGYmdk": {
       "type": "multi-column",
       "blocks": {
@@ -360,7 +360,7 @@
         "subheading": "",
         "title": "Cosa dicono i nostri clienti",
         "content": "",
-        "background": "#ffffff",
+        "background": "#fffaed",
         "background_gradient": "",
         "text_color": "#000000"
       }
@@ -422,7 +422,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#ffffff",
+        "background": "#fffaed",
         "background_gradient": "",
         "text_color": "#000000"
       }
