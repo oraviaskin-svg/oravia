@@ -9,32 +9,6 @@
  */
 {
   "sections": {
-    "featured-collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "collection": "",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "image_with_text_overlay_wRw6BV": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -162,8 +136,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefices_oraviav2.png",
-        "mobile_image": "shopify://shop_images/benorav2.png",
+        "image": "shopify://shop_images/benefices_oraviav2_3cade381-e53e-4280-939d-71ddcac206e0.png",
+        "mobile_image": "shopify://shop_images/benorav2_d306c120-8d3e-4ec1-ab70-7e957985fd29.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -928,7 +902,6 @@
     }
   },
   "order": [
-    "featured-collection",
     "image_with_text_overlay_wRw6BV",
     "logo_list_Rthzrd",
     "image_with_text_overlay_qXCfGP",
