@@ -633,7 +633,7 @@
           "type": "tab",
           "settings": {
             "title": "Pagamento 100% Sicuro",
-            "content": "<p><br/>Tutti i tuoi pagamenti sono protetti da sistemi di sicurezza avanzati. Inoltre, puoi scegliere di pagare in 2 o 3 comode rate senza interessi, per acquistare in totale serenità.<br/><br/></p>",
+            "content": "<p><br/>Tutti i tuoi pagamenti sono protetti da sistemi di sicurezza avanzati. Per acquistare in totale serenità.<br/><br/></p>",
             "page": ""
           }
         },
@@ -704,7 +704,7 @@
             "column_size": "4",
             "title": "Complesso Caffeinato Anti-Gonfiore + Attivatore di Collagene",
             "heading_tag": "h5",
-            "content": "<p>Riattiva la circolazione per eliminare le occhiaie e donare luminosità naturale</p><p>Scudo antiossidante contro l'invecchiamento per una pelle giovane e protetta</p>",
+            "content": "<p>Riattiva la circolazione per eliminare le occhiaie e dare luminosità naturale</p><p>Scudo antiossidante contro l'invecchiamento per una pelle giovane e protetta</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
