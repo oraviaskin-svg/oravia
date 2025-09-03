@@ -54,7 +54,7 @@
         "richtext_QNNVfV": {
           "type": "richtext",
           "settings": {
-            "content": "<p>ritrovi freschezza, compattezza e fiducia in te stessa.<br/></p>"
+            "content": "<h5>ritrovi freschezza, compattezza e fiducia in te stessa.<br/></h5>"
           }
         }
       },
@@ -152,6 +152,82 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "multi_column_YfgKet": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Gj6DN7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/37.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_74dFBf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/32.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XxWq4H": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/36.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Te6mAz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/37.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Gj6DN7",
+        "item_74dFBf",
+        "item_XxWq4H",
+        "item_Te6mAz"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "PRIMA/DOPO",
+        "content": "",
+        "background": "#fffaed",
+        "background_gradient": "",
+        "text_color": "#000000"
       }
     },
     "image_with_text_overlay_qXCfGP": {
@@ -322,7 +398,7 @@
           }
         },
         "countdown_timer_essential_app_block_AHPyAR": {
-          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "settings": {
             "id": "cmf1mjkph0031z03nw9vo4q1o"
           }
@@ -755,6 +831,7 @@
     "featured-collection",
     "image_with_text_overlay_wRw6BV",
     "logo_list_Rthzrd",
+    "multi_column_YfgKet",
     "image_with_text_overlay_qXCfGP",
     "multi_column_wGYmdk",
     "featured_product_WgiHhN",
