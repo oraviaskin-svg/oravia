@@ -310,10 +310,23 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/IMG_2613.jpg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Chiara.S",
             "heading_tag": "h4",
             "content": "<p><br/>Adoro la freschezza del roller e l'effetto immediato di idratazione. La routine è semplice e piacevole. Il formato è pratico, si applica bene e non lascia residui. La sensazione di fresco è perfetta e l'idratazione dura a lungo.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_L9Digw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2628.jpg",
+            "column_size": "4",
+            "title": "Elena.P",
+            "heading_tag": "h4",
+            "content": "<p>\"Finalmente un brand che unisce tecnologia e skincare. La luce rossa funziona davvero, il mio sguardo è ringiovanito.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -323,10 +336,36 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/IMG_2626.jpg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Giulia.J",
             "heading_tag": "h4",
             "content": "<p>Dopo due settimane il mio sguardo è molto più luminoso e le borse sotto gli occhi sono diminuite. Non posso più farne a meno! Il prodotto è facile da applicare e si assorbe rapidamente. I risultati sono visibili fin dai primi giorni d'uso.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_89mx73": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2605.jpg",
+            "column_size": "4",
+            "title": "Alessia.L",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pJXA8h": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2625.jpg",
+            "column_size": "4",
+            "title": "Francesca.V",
+            "heading_tag": "h4",
+            "content": "<p>\"La combinazione occhi + collo è geniale. In poche settimane vedo un cambiamento reale, soprattutto nella compattezza della pelle\".</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -336,7 +375,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/IMG_2606.jpg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Martina.A",
             "heading_tag": "h4",
             "content": "<p><br/>Finalmente un prodotto che rassoda davvero il collo. La pelle è più compatta e liscia, sembra un lifting naturale. L'applicazione è piacevole e la texture si assorbe bene senza ungere. Dopo qualche settimana i risultati sono evidenti.<br/><br/></p>",
@@ -348,7 +387,10 @@
       },
       "block_order": [
         "item_3UDeMN",
+        "item_L9Digw",
         "item_rWxyn3",
+        "item_89mx73",
+        "item_pJXA8h",
         "item_FgJzLn"
       ],
       "name": "Multi-column",
@@ -413,6 +455,7 @@
         "item_JB6wiW",
         "item_AUk6NL"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -549,7 +592,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": false,
