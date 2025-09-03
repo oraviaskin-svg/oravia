@@ -170,10 +170,62 @@
             "link_style": "link"
           }
         },
+        "item_Cg86AM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/30.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qcYt3T": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/31.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3VNKEt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/38.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_74dFBf": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/32.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QRaMUn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/27.png",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -212,7 +264,11 @@
       },
       "block_order": [
         "item_Gj6DN7",
+        "item_Cg86AM",
+        "item_qcYt3T",
+        "item_3VNKEt",
         "item_74dFBf",
+        "item_QRaMUn",
         "item_XxWq4H",
         "item_Te6mAz"
       ],
@@ -307,6 +363,68 @@
         "background": "#ac8c2f",
         "background_gradient": "",
         "text_color": "#fffaed"
+      }
+    },
+    "multi_column_Qh3rFc": {
+      "type": "multi-column",
+      "blocks": {
+        "item_ic3yMM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2628.jpg",
+            "column_size": "3",
+            "title": "Elena.P",
+            "heading_tag": "h4",
+            "content": "<p>\"Finalmente un brand che unisce tecnologia e skincare. La luce rossa funziona davvero, il mio sguardo è ringiovanito.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JB6wiW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2605.jpg",
+            "column_size": "3",
+            "title": "Alessia.L",
+            "heading_tag": "h4",
+            "content": "<p>\"Il roller è una scoperta! È fresco sulla pelle e rende l’applicazione super piacevole. Sento che la crema penetra meglio e il collo sembra già più tonico\".</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AUk6NL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2625.jpg",
+            "column_size": "3",
+            "title": "Francesca.V",
+            "heading_tag": "h4",
+            "content": "<p>\"La combinazione occhi + collo è geniale. In poche settimane vedo un cambiamento reale, soprattutto nella compattezza della pelle\".</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_ic3yMM",
+        "item_JB6wiW",
+        "item_AUk6NL"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#ac8c2f",
+        "background_gradient": "",
+        "text_color": "#ffffff"
       }
     },
     "featured_product_WgiHhN": {
@@ -434,7 +552,7 @@
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "rgba(0,0,0,0)",
         "background_gradient": "",
@@ -763,68 +881,6 @@
         "button_background": "#ac8c2f",
         "button_text_color": "#ffffff"
       }
-    },
-    "multi_column_Qh3rFc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_ic3yMM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2628.jpg",
-            "column_size": "3",
-            "title": "Elena.P",
-            "heading_tag": "h4",
-            "content": "<p>\"Finalmente un brand che unisce tecnologia e skincare. La luce rossa funziona davvero, il mio sguardo è ringiovanito.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JB6wiW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2605.jpg",
-            "column_size": "3",
-            "title": "Alessia.L",
-            "heading_tag": "h4",
-            "content": "<p>\"Il roller è una scoperta! È fresco sulla pelle e rende l’applicazione super piacevole. Sento che la crema penetra meglio e il collo sembra già più tonico\".</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AUk6NL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2625.jpg",
-            "column_size": "3",
-            "title": "Francesca.V",
-            "heading_tag": "h4",
-            "content": "<p>\"La combinazione occhi + collo è geniale. In poche settimane vedo un cambiamento reale, soprattutto nella compattezza della pelle\".</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_ic3yMM",
-        "item_JB6wiW",
-        "item_AUk6NL"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#ac8c2f",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
     }
   },
   "order": [
@@ -834,13 +890,13 @@
     "multi_column_YfgKet",
     "image_with_text_overlay_qXCfGP",
     "multi_column_wGYmdk",
+    "multi_column_Qh3rFc",
     "featured_product_WgiHhN",
     "rich_text_Vr7Dig",
     "video_qF4WiV",
     "tabs_Y4YaWr",
     "multi_column_yUhqJg",
     "faq_FQgcwK",
-    "contact_RE67Xh",
-    "multi_column_Qh3rFc"
+    "contact_RE67Xh"
   ]
 }
