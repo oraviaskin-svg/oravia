@@ -478,6 +478,7 @@
         },
         "image_YK6NEn": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/benefices_oravia_2.png",
             "alignment": "center",
