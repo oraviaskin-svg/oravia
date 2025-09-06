@@ -85,40 +85,22 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_4LAyai": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Vanity_Fair_c89cd73b-8e75-4237-adf3-d4189519b584.svg",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_EhWF3e": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/elle_8f537aab-c668-429a-bc19-e409721dc3a0.svg",
-            "logo_width": 150,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_Xmmgrf",
         "logo_dfdRt6",
         "logo_wdFV6b",
-        "logo_twwzAf",
-        "logo_4LAyai",
-        "logo_EhWF3e"
+        "logo_twwzAf"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": false,
+        "stack_mobile": true,
         "title": "Come visto su :",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 6,
+        "items_per_row": 4,
         "background": "#fffaed",
         "background_gradient": "",
         "text_color": "",
