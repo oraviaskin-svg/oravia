@@ -133,7 +133,7 @@
         "item_Gj6DN7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/37.png",
+            "image": "shopify://shop_images/45.png",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -146,7 +146,7 @@
         "item_Cg86AM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/30.png",
+            "image": "shopify://shop_images/38_42cb5273-4da2-4c87-ab3f-ef213855ba65.png",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -159,7 +159,7 @@
         "item_qcYt3T": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/31.png",
+            "image": "shopify://shop_images/39.png",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -172,7 +172,7 @@
         "item_3VNKEt": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/38.png",
+            "image": "shopify://shop_images/46.png",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -224,7 +224,7 @@
         "item_Te6mAz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/33.png",
+            "image": "shopify://shop_images/41.png",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -523,13 +523,6 @@
             "max_width": 500
           }
         },
-        "countdown_timer_essential_app_block_AHPyAR": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "disabled": true,
-          "settings": {
-            "id": "cmf1mjkph0031z03nw9vo4q1o"
-          }
-        },
         "pickup_availability_8gj3RC": {
           "type": "pickup_availability",
           "settings": {}
@@ -549,7 +542,6 @@
         "buy_buttons_7PyMJE",
         "liquid_PUfBYG",
         "image_hEPTKQ",
-        "countdown_timer_essential_app_block_AHPyAR",
         "pickup_availability_8gj3RC"
       ],
       "name": "Featured product",
