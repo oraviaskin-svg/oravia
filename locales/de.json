@@ -445,7 +445,8 @@
     "checkout": {
       "general": {
         "page_title": "Finalizza ordine",
-        "pay_now_button_label": "Finalizza ordine"
+        "pay_now_button_label": "Finalizza ordine",
+        "authenticate_purchase_button_label": "Finalizza ordine"
       }
     }
   }
