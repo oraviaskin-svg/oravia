@@ -467,6 +467,12 @@
             "product": "oraskin-radiance-eye-cream"
           }
         },
+        "essential_countdown_timer_app_block_BJArmd": {
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmf1mjkph0031z03nw9vo4q1o"
+          }
+        },
         "rating_dxBfVn": {
           "type": "rating",
           "disabled": true,
@@ -555,6 +561,7 @@
         "price_YGf44t",
         "image_YK6NEn",
         "kaching_bundles_app_block_bKxYBL",
+        "essential_countdown_timer_app_block_BJArmd",
         "rating_dxBfVn",
         "description_rBLFhf",
         "variant_picker_PtdJ6e",
