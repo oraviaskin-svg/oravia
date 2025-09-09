@@ -127,6 +127,21 @@
         "overlay_opacity": 0
       }
     },
+    "video_qF4WiV": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/oravia en action.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_YfgKet": {
       "type": "multi-column",
       "blocks": {
@@ -585,7 +600,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "rgba(0,0,0,0)",
+        "background": "#fffaed",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -616,21 +631,6 @@
         "background": "#fffaed",
         "background_gradient": "",
         "text_color": "#1a1a1a"
-      }
-    },
-    "video_qF4WiV": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/oravia en action.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "tabs_Y4YaWr": {
