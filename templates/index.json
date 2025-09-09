@@ -22,13 +22,13 @@
           "type": "heading",
           "settings": {
             "text": "Occhiaie ? Rughe sul collo ? Cancellale definitivamente.",
-            "heading_tag": "h1"
+            "heading_tag": "h3"
           }
         },
         "richtext_QNNVfV": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>ritrovi freschezza, compattezza e fiducia in te stessa.<br/></h5>"
+            "content": "<p>ritrovi freschezza, compattezza e fiducia in te stessa.<br/></p>"
           }
         }
       },
