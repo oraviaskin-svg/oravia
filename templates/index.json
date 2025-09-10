@@ -170,21 +170,6 @@
         "overlay_opacity": 0
       }
     },
-    "video_ND7bd9": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/oravia en action.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_YfgKet": {
       "type": "multi-column",
       "blocks": {
@@ -447,25 +432,16 @@
             "show_taxes_notice": false
           }
         },
-        "image_YK6NEn": {
-          "type": "image",
-          "disabled": true,
+        "liquid_PUfBYG": {
+          "type": "liquid",
           "settings": {
-            "image": "shopify://shop_images/benefices_oravia_2.png",
-            "alignment": "center",
-            "max_width": 500
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 15px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    Ultimi 8 disponibili !\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Stock limitato !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "kaching_bundles_app_block_bKxYBL": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "oraskin-radiance-eye-cream"
-          }
-        },
-        "liquid_PUfBYG": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 15px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    Ultimi 8 disponibili !\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Stock limitato !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "essential_countdown_timer_app_block_BJArmd": {
@@ -530,6 +506,7 @@
         },
         "image_hEPTKQ": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/trust_2.png",
             "alignment": "center",
@@ -576,9 +553,8 @@
         "title_RmMKUE",
         "badges_A9mnxh",
         "price_YGf44t",
-        "image_YK6NEn",
-        "kaching_bundles_app_block_bKxYBL",
         "liquid_PUfBYG",
+        "kaching_bundles_app_block_bKxYBL",
         "essential_countdown_timer_app_block_BJArmd",
         "rating_dxBfVn",
         "description_rBLFhf",
@@ -612,66 +588,19 @@
         "input_text_color": ""
       }
     },
-    "multi_column_Qh3rFc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_ic3yMM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2628.jpg",
-            "column_size": "3",
-            "title": "Elena.P",
-            "heading_tag": "h4",
-            "content": "<p>\"Finalmente un brand che unisce tecnologia e skincare. La luce rossa funziona davvero, il mio sguardo è ringiovanito.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_JB6wiW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2605.jpg",
-            "column_size": "3",
-            "title": "Alessia.L",
-            "heading_tag": "h4",
-            "content": "<p>\"Il roller è una scoperta! È fresco sulla pelle e rende l’applicazione super piacevole. Sento che la crema penetra meglio e il collo sembra già più tonico\".</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AUk6NL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2625.jpg",
-            "column_size": "3",
-            "title": "Francesca.V",
-            "heading_tag": "h4",
-            "content": "<p>\"La combinazione occhi + collo è geniale. In poche settimane vedo un cambiamento reale, soprattutto nella compattezza della pelle\".</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_ic3yMM",
-        "item_JB6wiW",
-        "item_AUk6NL"
-      ],
-      "name": "Multi-column",
+    "video_ND7bd9": {
+      "type": "video",
+      "name": "Video",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#fffaed",
-        "background_gradient": "",
-        "text_color": "#000000"
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/oravia en action.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "tabs_Y4YaWr": {
@@ -814,6 +743,68 @@
         "background": "#ac8c2f",
         "background_gradient": "",
         "text_color": "#ffffff"
+      }
+    },
+    "multi_column_Qh3rFc": {
+      "type": "multi-column",
+      "blocks": {
+        "item_ic3yMM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2628.jpg",
+            "column_size": "3",
+            "title": "Elena.P",
+            "heading_tag": "h4",
+            "content": "<p>\"Finalmente un brand che unisce tecnologia e skincare. La luce rossa funziona davvero, il mio sguardo è ringiovanito.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JB6wiW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2605.jpg",
+            "column_size": "3",
+            "title": "Alessia.L",
+            "heading_tag": "h4",
+            "content": "<p>\"Il roller è una scoperta! È fresco sulla pelle e rende l’applicazione super piacevole. Sento che la crema penetra meglio e il collo sembra già più tonico\".</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AUk6NL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2625.jpg",
+            "column_size": "3",
+            "title": "Francesca.V",
+            "heading_tag": "h4",
+            "content": "<p>\"La combinazione occhi + collo è geniale. In poche settimane vedo un cambiamento reale, soprattutto nella compattezza della pelle\".</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_ic3yMM",
+        "item_JB6wiW",
+        "item_AUk6NL"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#fffaed",
+        "background_gradient": "",
+        "text_color": "#000000"
       }
     },
     "faq_FQgcwK": {
