@@ -129,6 +129,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_Vr7Dig": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_34hxyJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Risultati in tempo reale",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_34hxyJ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fffaed",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
     "video_qF4WiV": {
       "type": "video",
       "name": "Video",
@@ -634,32 +660,6 @@
         "input_text_color": ""
       }
     },
-    "rich_text_Vr7Dig": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_34hxyJ": {
-          "type": "heading",
-          "settings": {
-            "text": "Risultati in tempo reale",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_34hxyJ"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#fffaed",
-        "background_gradient": "",
-        "text_color": "#1a1a1a"
-      }
-    },
     "tabs_Y4YaWr": {
       "type": "tabs",
       "blocks": {
@@ -945,12 +945,12 @@
     "image_with_text_overlay_wRw6BV",
     "logo_list_Rthzrd",
     "image_with_text_overlay_qXCfGP",
+    "rich_text_Vr7Dig",
     "video_qF4WiV",
     "multi_column_YfgKet",
     "multi_column_wGYmdk",
     "multi_column_Qh3rFc",
     "featured_product_WgiHhN",
-    "rich_text_Vr7Dig",
     "tabs_Y4YaWr",
     "multi_column_yUhqJg",
     "faq_FQgcwK",
