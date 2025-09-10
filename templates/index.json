@@ -22,7 +22,7 @@
           "type": "heading",
           "settings": {
             "text": "Cancellate immediatamente occhiaie e rughe",
-            "heading_tag": "h3"
+            "heading_tag": "h2"
           }
         },
         "richtext_QNNVfV": {
@@ -46,7 +46,7 @@
         "image_size": "lg",
         "image": "shopify://shop_images/hero_banner.jpg",
         "mobile_image": "shopify://shop_images/bannerherooo_c01755b6-620d-4ade-9dd1-044f7c24e9b3.png",
-        "mobile_text_position": "place-self-center text-center",
+        "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
