@@ -215,6 +215,19 @@
             "link_style": "link"
           }
         },
+        "item_XxWq4H": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/45_2fcab601-e01f-41cd-89bf-18304767576e.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>La punta rimovibile è geniale—la pulisco e la butto nel bagaglio a mano. L'ho usata su un volo notturno e sono atterrata con un aspetto riposato. Anche la batteria dura un'eternità.<br/><strong>Angela.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_Cg86AM": {
           "type": "item",
           "settings": {
@@ -244,7 +257,7 @@
         "item_3VNKEt": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/46.png",
+            "image": "shopify://shop_images/47.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -257,7 +270,7 @@
         "item_74dFBf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/32.png",
+            "image": "shopify://shop_images/41_56d8d76b-a4d2-464a-972b-8e42aa0a5ed5.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -281,19 +294,6 @@
             "link_style": "link"
           }
         },
-        "item_XxWq4H": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/36.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>La punta rimovibile è geniale—la pulisco e la butto nel bagaglio a mano. L'ho usata su un volo notturno e sono atterrata con un aspetto riposato. Anche la batteria dura un'eternità.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_Te6mAz": {
           "type": "item",
           "settings": {
@@ -310,12 +310,12 @@
       },
       "block_order": [
         "item_Gj6DN7",
+        "item_XxWq4H",
         "item_Cg86AM",
         "item_qcYt3T",
         "item_3VNKEt",
         "item_74dFBf",
         "item_QRaMUn",
-        "item_XxWq4H",
         "item_Te6mAz"
       ],
       "name": "Multi-column",
