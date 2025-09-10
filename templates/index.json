@@ -564,7 +564,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Consigli per l'uso",
-            "content": "<p><strong>1. PREPARATE</strong> - Sciacquate con acqua tiepida per aprire i pori<br/><strong>2. APPLICATE</strong> - Utilizzate l'applicatore elettrico, insistete sul contorno occhi<br/><strong>3. MASSAGGIATE</strong> - Idratate con il roller su mascella e collo</p><p><em>Routine quotidiana consigliata mattina e sera</em></p>",
+            "content": "<p><strong>PASSAGGIO 1 – Detergi e Prepara (15 sec)</strong> Rimuovi trucco e crema solare, poi asciuga delicatamente la zona occhi. Una base pulita permette al LED e alle micro-vibrazioni di lavorare a piena potenza.</p><p><strong>PASSAGGIO 2 – Applica la Crema Contorno Occhi (10 sec)</strong> Applica una quantità grande come un chicco di riso della crema Revive-Light lungo l'osso orbitale. Pro-Xylane™ e caffeina iniziano subito a idratare e illuminare al contatto.</p><p><strong>PASSAGGIO 3 – Attiva e Scorri (45–60 sec totali, entrambi gli occhi)</strong> Tocca la punta metallica sulla pelle—il LED rosso si accende e iniziano le micro-pulsazioni a 10.000 rpm. Scorri dall'angolo interno verso la tempia in una direzione, 4-5 passaggi per occhio. Le pulsazioni riducono il gonfiore mentre la luce rossa stimola il collagene per una rassodamento duraturo.</p><p><strong>PASSAGGIO 4 – Sigilla e Pulisci (10 sec)</strong> Picchietta la crema residua per una finitura pronta per il correttore, poi pulisci la punta con un panno umido e morbido.</p><p><strong>Routine totale: meno di 90 secondi, due volte al giorno per occhi luminosi, sollevati e dal look riposato.</strong></p>",
             "page": ""
           }
         },
@@ -573,8 +573,18 @@
           "settings": {
             "icon": "none",
             "icon_width": 16,
-            "title": "più informazioni",
+            "title": "Ingredienti",
             "content": "<p><strong>🔬 ACETIL ESAPEPTIDE-8 E COMPLESSO PEPTIDICO AVANZATO</strong><br/>Peptidi di ultima generazione che agiscono come \"Botox naturale\", riducendo visibilmente rughe e linee d'espressione per una pelle più liscia e giovane.</p><p><strong>☕ COMPLESSO CAFFEINATO ANTI-GONFIORE + ATTIVATORE DI COLLAGENE</strong><br/>La caffeina drenante elimina borse e occhiaie mentre gli attivatori stimolano la produzione naturale di collagene per un effetto lifting immediato.</p><p><strong>💧 IDRATAZIONE INTENSIVA: ACIDO IALURONICO + GLICERINA PROTETTIVA</strong><br/>L'acido ialuronico trattiene fino a 1000 volte il suo peso in acqua, mentre la glicerina crea una barriera protettiva per un'idratazione profonda e duratura.</p><p><strong>⚡ TECNOLOGIA LED ROSSA + VIBRAZIONE SONICA 10.000 GIRI/MIN</strong><br/>La luce LED rossa stimola il rinnovamento cellulare mentre le vibrazioni soniche favoriscono la penetrazione degli attivi per risultati potenziati.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_jbnFGy": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Spedizione",
+            "content": "<p>Spediamo in tutto il mondo. Gli ordini vengono consegnati in 3-8 giorni lavorativi a seconda della destinazione:</p><ul><li><strong>Stati Uniti: 5-8 giorni lavorativi</strong></li><li><strong>Regno Unito: 3-8 giorni lavorativi</strong></li><li><strong>Australia: 5-10 giorni lavorativi</strong></li><li><strong>Europa: 3-15 giorni lavorativi</strong></li></ul><p>Gli ordini vengono elaborati in 24-48 ore. Tutti gli ordini ricevono un numero di tracciamento.</p><p>Per un tempo limitato, offriamo la spedizione gratuita.</p>",
             "page": ""
           }
         },
@@ -602,6 +612,7 @@
         "image_hEPTKQ",
         "collapsible_text_nk47Jj",
         "collapsible_text_Jz7r7p",
+        "collapsible_text_jbnFGy",
         "pickup_availability_8gj3RC"
       ],
       "name": "Featured product",
