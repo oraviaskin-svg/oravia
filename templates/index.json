@@ -172,6 +172,7 @@
       "block_order": [
         "heading_e8ei8Q"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -184,6 +185,7 @@
     },
     "video_qF4WiV": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -322,7 +324,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "PRIMA/DOPO",
+        "title": "Cosa dicono i nostri clienti",
         "content": "",
         "background": "#fffaed",
         "background_gradient": "",
@@ -419,6 +421,7 @@
         "item_pJXA8h",
         "item_FgJzLn"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
