@@ -112,6 +112,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_Vr7Dig": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_34hxyJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Cosa rende speciale Oravia?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_34hxyJ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fffaed",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
     "image_with_text_overlay_qXCfGP": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -121,7 +147,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/benefices_oraviav2_3cade381-e53e-4280-939d-71ddcac206e0.png",
-        "mobile_image": "shopify://shop_images/benorav2_5099a076-3c29-4871-9c86-b237cfa9b69a.png",
+        "mobile_image": "shopify://shop_images/benefices_oraviav2_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -129,21 +155,21 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_Vr7Dig": {
+    "rich_text_7Fw73J": {
       "type": "rich-text",
       "blocks": {
-        "heading_34hxyJ": {
+        "heading_e8ei8Q": {
           "type": "heading",
           "settings": {
             "text": "Risultati in tempo reale",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
         }
       },
       "block_order": [
-        "heading_34hxyJ"
+        "heading_e8ei8Q"
       ],
       "name": "Rich text",
       "settings": {
@@ -949,8 +975,9 @@
   "order": [
     "image_with_text_overlay_wRw6BV",
     "logo_list_Rthzrd",
-    "image_with_text_overlay_qXCfGP",
     "rich_text_Vr7Dig",
+    "image_with_text_overlay_qXCfGP",
+    "rich_text_7Fw73J",
     "video_qF4WiV",
     "multi_column_YfgKet",
     "multi_column_wGYmdk",
