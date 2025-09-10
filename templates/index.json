@@ -20,6 +20,7 @@
         },
         "heading_Fbpxqz": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Cancellate immediatamente occhiaie e rughe",
             "heading_tag": "h1"
@@ -43,14 +44,14 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
-        "image_size": "lg",
+        "image_size": "auto",
         "image": "shopify://shop_images/hero_banner.jpg",
-        "mobile_image": "shopify://shop_images/bannerherooo_c01755b6-620d-4ade-9dd1-044f7c24e9b3.png",
+        "mobile_image": "shopify://shop_images/ORAVIA_2_43915348-9b35-45bf-b6f0-995e39fb3741.png",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 36
+        "overlay_opacity": 0
       }
     },
     "logo_list_Rthzrd": {
