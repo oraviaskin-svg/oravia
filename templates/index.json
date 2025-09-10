@@ -136,7 +136,7 @@
           "type": "heading",
           "settings": {
             "text": "Risultati in tempo reale",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
