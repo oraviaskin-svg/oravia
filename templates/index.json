@@ -205,11 +205,11 @@
         "item_Gj6DN7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/45.png",
-            "column_size": "4",
+            "image": "shopify://shop_images/46_5fc725bd-e136-4f0c-98c7-6fa433d10349.png",
+            "column_size": "3",
             "title": "",
-            "heading_tag": "h4",
-            "content": "",
+            "heading_tag": "h6",
+            "content": "<p>Sono un'infermiera che lavora turni di notte di 12 ore; all'alba ho gli occhi gonfi e stanchi. Cinque minuti con la punta a LED rossi e tutto si sgonfia. I colleghi continuano a chiedermi se ho dormito otto ore (non è così!).</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -218,8 +218,8 @@
         "item_Cg86AM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/38_42cb5273-4da2-4c87-ab3f-ef213855ba65.png",
-            "column_size": "4",
+            "image": "shopify://shop_images/39_95586d63-934f-46c2-a226-fbaf9678ef8e.png",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -232,7 +232,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/39.png",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -245,7 +245,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/46.png",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -258,7 +258,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/32.png",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -269,6 +269,7 @@
         },
         "item_QRaMUn": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/27.png",
             "column_size": "4",
@@ -284,10 +285,10 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/36.png",
-            "column_size": "4",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>La punta rimovibile è geniale—la pulisco e la butto nel bagaglio a mano. L'ho usata su un volo notturno e sono atterrata con un aspetto riposato. Anche la batteria dura un'eternità.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
