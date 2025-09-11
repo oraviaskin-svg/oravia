@@ -156,32 +156,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_7Fw73J": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_e8ei8Q": {
-          "type": "heading",
-          "settings": {
-            "text": "Risultati in tempo reale",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_e8ei8Q"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#fffaed",
-        "background_gradient": "",
-        "text_color": "#1a1a1a"
-      }
-    },
     "video_qF4WiV": {
       "type": "video",
       "name": "Video",
@@ -645,6 +619,32 @@
         "input_text_color": ""
       }
     },
+    "rich_text_7Fw73J": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_e8ei8Q": {
+          "type": "heading",
+          "settings": {
+            "text": "Risultati in tempo reale",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_e8ei8Q"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fffaed",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
     "video_ND7bd9": {
       "type": "video",
       "name": "Video",
@@ -658,72 +658,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "tabs_Y4YaWr": {
-      "type": "tabs",
-      "blocks": {
-        "tab_ciKRJt": {
-          "type": "tab",
-          "settings": {
-            "title": "Assistenza 7/7",
-            "content": "<p><br/>Hai domande, dubbi o bisogno di consigli sulla tua routine skincare? Il nostro servizio clienti è disponibile <strong>tutti i giorni</strong>, in <strong>lingua italiana</strong>, per offrirti un supporto rapido, chiaro e umano.<br/><br/> <strong>Contattaci via email:</strong><a>oraviaskin@gmail.com</a><br/><br/>Siamo qui per te prima, durante e dopo il tuo acquisto.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_fmaHBF": {
-          "type": "tab",
-          "settings": {
-            "title": "Soddisfatti o Rimborsati",
-            "content": "<p><br/>Vogliamo che tu sia completamente soddisfatto del tuo acquisto. Se per qualsiasi motivo il prodotto non fa per te, hai 30 giorni per richiedere un rimborso completo. Nessun rischio, solo benessere.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_W3Tect": {
-          "type": "tab",
-          "settings": {
-            "title": "Testato Dermatologicamente",
-            "content": "<p><br/>La nostra routine skincare è formulata con ingredienti di origine naturale, scelti per la loro efficacia e delicatezza sulla pelle. Niente parabeni, siliconi aggressivi o sostanze chimiche superflue. Ogni prodotto è testato dermatologicamente per garantire massima tollerabilità, anche sulle pelli più sensibili. La tua pelle merita il meglio, in totale sicurezza.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_kYP46g": {
-          "type": "tab",
-          "settings": {
-            "title": "Pagamento 100% Sicuro",
-            "content": "<p><br/>Tutti i tuoi pagamenti sono protetti da sistemi di sicurezza avanzati. Per acquistare in totale serenità.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_hD4PQM": {
-          "type": "tab",
-          "settings": {
-            "title": "Spedizione Rapida",
-            "content": "<p><br/>Prepariamo e spediamo i tuoi ordini con la massima cura. La consegna avviene in media tra <strong>3 e 8 giorni lavorativi</strong>, direttamente a casa tua. Riceverai un link per seguire il tuo pacco in tempo reale. Serietà e trasparenza, dalla conferma all'arrivo.<br/><br/></p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_ciKRJt",
-        "tab_fmaHBF",
-        "tab_W3Tect",
-        "tab_kYP46g",
-        "tab_hD4PQM"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "#fffaed",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "multi_column_yUhqJg": {
@@ -800,6 +734,72 @@
         "background": "#ac8c2f",
         "background_gradient": "",
         "text_color": "#ffffff"
+      }
+    },
+    "tabs_Y4YaWr": {
+      "type": "tabs",
+      "blocks": {
+        "tab_ciKRJt": {
+          "type": "tab",
+          "settings": {
+            "title": "Assistenza 7/7",
+            "content": "<p><br/>Hai domande, dubbi o bisogno di consigli sulla tua routine skincare? Il nostro servizio clienti è disponibile <strong>tutti i giorni</strong>, in <strong>lingua italiana</strong>, per offrirti un supporto rapido, chiaro e umano.<br/><br/> <strong>Contattaci via email:</strong><a>oraviaskin@gmail.com</a><br/><br/>Siamo qui per te prima, durante e dopo il tuo acquisto.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_fmaHBF": {
+          "type": "tab",
+          "settings": {
+            "title": "Soddisfatti o Rimborsati",
+            "content": "<p><br/>Vogliamo che tu sia completamente soddisfatto del tuo acquisto. Se per qualsiasi motivo il prodotto non fa per te, hai 30 giorni per richiedere un rimborso completo. Nessun rischio, solo benessere.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_W3Tect": {
+          "type": "tab",
+          "settings": {
+            "title": "Testato Dermatologicamente",
+            "content": "<p><br/>La nostra routine skincare è formulata con ingredienti di origine naturale, scelti per la loro efficacia e delicatezza sulla pelle. Niente parabeni, siliconi aggressivi o sostanze chimiche superflue. Ogni prodotto è testato dermatologicamente per garantire massima tollerabilità, anche sulle pelli più sensibili. La tua pelle merita il meglio, in totale sicurezza.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_kYP46g": {
+          "type": "tab",
+          "settings": {
+            "title": "Pagamento 100% Sicuro",
+            "content": "<p><br/>Tutti i tuoi pagamenti sono protetti da sistemi di sicurezza avanzati. Per acquistare in totale serenità.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_hD4PQM": {
+          "type": "tab",
+          "settings": {
+            "title": "Spedizione Rapida",
+            "content": "<p><br/>Prepariamo e spediamo i tuoi ordini con la massima cura. La consegna avviene in media tra <strong>3 e 8 giorni lavorativi</strong>, direttamente a casa tua. Riceverai un link per seguire il tuo pacco in tempo reale. Serietà e trasparenza, dalla conferma all'arrivo.<br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_ciKRJt",
+        "tab_fmaHBF",
+        "tab_W3Tect",
+        "tab_kYP46g",
+        "tab_hD4PQM"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "#fffaed",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "multi_column_Qh3rFc": {
