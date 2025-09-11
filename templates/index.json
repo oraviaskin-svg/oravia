@@ -187,19 +187,6 @@
             "link_style": "link"
           }
         },
-        "item_9xip6Y": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/53.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Sviluppatrice web, passo 10 ore al giorno davanti agli schermi strizzando gli occhi. A soli 35 anni, avevo già piccole rughe che iniziavano a scavarsi agli angoli degli occhi. Le mie amiche mi prendevano in giro dicendo che era il prezzo della tecnologia! 6 settimane di utilizzo durante le pause caffè ed è magico: nessuna traccia di fatica digitale. Il mio ragazzo dice che sembro di nuovo una 25enne.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_qcYt3T": {
           "type": "item",
           "settings": {
@@ -208,6 +195,19 @@
             "title": "",
             "heading_tag": "h4",
             "content": "<p>Pensionata di 71 anni, evitavo gli specchi a causa del mio collo tutto rugoso e cadente. I miei nipotini mi dicevano gentilmente che avevo un collo come la loro tartaruga! Al mercato portavo sempre foulard per nascondere. <strong>Da 2 mesi, 15 minuti</strong> ogni sera davanti alle mie serie Netflix. Ora la mia vicina mi chiede se ho fatto chirurgia (certamente no alla mia età!). Le mie colleghe del circolo bridge non ci credono.<br/><strong>Giuseppina.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9xip6Y": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/53.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Sviluppatrice web, passo 10 ore al giorno davanti agli schermi strizzando gli occhi. A soli 35 anni, avevo già piccole rughe che iniziavano a scavarsi agli angoli degli occhi. Le mie amiche mi prendevano in giro dicendo che era il prezzo della tecnologia! 6 settimane di utilizzo durante le pause caffè ed è magico: nessuna traccia di fatica digitale. Il mio ragazzo dice che sembro di nuovo una 25enne.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -308,8 +308,8 @@
       },
       "block_order": [
         "item_3tg7q7",
-        "item_9xip6Y",
         "item_qcYt3T",
+        "item_9xip6Y",
         "item_Gj6DN7",
         "item_Cg86AM",
         "item_3VNKEt",
