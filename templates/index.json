@@ -113,64 +113,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_Vr7Dig": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_34hxyJ": {
-          "type": "heading",
-          "settings": {
-            "text": "Cosa rende speciale Oravia?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_34hxyJ"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#fffaed",
-        "background_gradient": "",
-        "text_color": "#1a1a1a"
-      }
-    },
-    "image_with_text_overlay_qXCfGP": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/benefices_oraviav2_3cade381-e53e-4280-939d-71ddcac206e0.png",
-        "mobile_image": "shopify://shop_images/benefices_oraviav2_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "video_qF4WiV": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/gif-oravia.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "featured_product_WgiHhN": {
       "type": "featured-product",
       "blocks": {
@@ -366,6 +308,64 @@
         "text_color": "#000000",
         "input_background": "#fffaed",
         "input_text_color": ""
+      }
+    },
+    "rich_text_Vr7Dig": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_34hxyJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Cosa rende speciale Oravia?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_34hxyJ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fffaed",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
+    "image_with_text_overlay_qXCfGP": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/benefices_oraviav2_3cade381-e53e-4280-939d-71ddcac206e0.png",
+        "mobile_image": "shopify://shop_images/benefices_oraviav2_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "video_qF4WiV": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/gif-oravia.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "multi_column_YfgKet": {
@@ -1021,10 +1021,10 @@
   "order": [
     "image_with_text_overlay_wRw6BV",
     "logo_list_Rthzrd",
+    "featured_product_WgiHhN",
     "rich_text_Vr7Dig",
     "image_with_text_overlay_qXCfGP",
     "video_qF4WiV",
-    "featured_product_WgiHhN",
     "multi_column_YfgKet",
     "multi_column_wGYmdk",
     "rich_text_7Fw73J",
