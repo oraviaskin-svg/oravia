@@ -201,40 +201,27 @@
     "multi_column_YfgKet": {
       "type": "multi-column",
       "blocks": {
-        "item_Gj6DN7": {
+        "item_3tg7q7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/46_5fc725bd-e136-4f0c-98c7-6fa433d10349.png",
+            "image": "shopify://shop_images/50.png",
             "column_size": "3",
             "title": "",
-            "heading_tag": "h6",
-            "content": "<p>Sono un'infermiera che lavora turni di notte di 12 ore; all'alba ho gli occhi gonfi e stanchi. Cinque minuti con la punta a LED rossi e tutto si sgonfia. I colleghi continuano a chiedermi se ho dormito otto ore (non è così!).<br/><strong>Maria.</strong></p>",
+            "heading_tag": "h4",
+            "content": "<p>Insegnante di 45 anni, passavo le giornate a correggere compiti strizzando gli occhi. Dopo anni, avevo profonde rughe attorno agli occhi che mi facevano sembrare sempre stanca. I genitori dei miei alunni mi chiedevano se stavo bene! <strong>Due mesi</strong> di trattamento quotidiano <strong>(10 minuti) </strong>e le zampe di gallina sono completamente scomparse.<br/><strong>Francesca.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_XxWq4H": {
+        "item_9xip6Y": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/45_2fcab601-e01f-41cd-89bf-18304767576e.png",
+            "image": "shopify://shop_images/53.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>La punta rimovibile è geniale—la pulisco e la butto nel bagaglio a mano. L'ho usata su un volo notturno e sono atterrata con un aspetto riposato. Anche la batteria dura un'eternità.<br/><strong>Angela.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Cg86AM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/39_95586d63-934f-46c2-a226-fbaf9678ef8e.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>I was skeptical but willing to try anything to help my neck. I am already seeing improvement and I'm really happy with the results so far.<strong>It is helping me feel better about myself!</strong></p>",
+            "content": "<p>Sviluppatrice web, passo 10 ore al giorno davanti agli schermi strizzando gli occhi. A soli 35 anni, avevo già piccole rughe che iniziavano a scavarsi agli angoli degli occhi. Le mie amiche mi prendevano in giro dicendo che era il prezzo della tecnologia! 6 settimane di utilizzo durante le pause caffè ed è magico: nessuna traccia di fatica digitale. Il mio ragazzo dice che sembro di nuovo una 25enne.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -248,6 +235,32 @@
             "title": "",
             "heading_tag": "h4",
             "content": "<p>Pensionata di 71 anni, evitavo gli specchi a causa del mio collo tutto rugoso e cadente. I miei nipotini mi dicevano gentilmente che avevo un collo come la loro tartaruga! Al mercato portavo sempre foulard per nascondere. <strong>Da 2 mesi, 15 minuti</strong> ogni sera davanti alle mie serie Netflix. Ora la mia vicina mi chiede se ho fatto chirurgia (certamente no alla mia età!). Le mie colleghe del circolo bridge non ci credono.<br/><strong>Giuseppina.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Gj6DN7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/46_5fc725bd-e136-4f0c-98c7-6fa433d10349.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h6",
+            "content": "<p>Sono un'infermiera che lavora turni di notte di 12 ore; all'alba ho gli occhi gonfi e stanchi. Cinque minuti con la punta a LED rossi e tutto si sgonfia. I colleghi continuano a chiedermi se ho dormito otto ore (non è così!).<br/><strong>Maria.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Cg86AM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/39_95586d63-934f-46c2-a226-fbaf9678ef8e.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>I was skeptical but willing to try anything to help my neck. I am already seeing improvement and I'm really happy with the results so far.<strong>It is helping me feel better about myself!</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -306,27 +319,14 @@
             "link_style": "link"
           }
         },
-        "item_3tg7q7": {
+        "item_XxWq4H": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/50.png",
+            "image": "shopify://shop_images/45_2fcab601-e01f-41cd-89bf-18304767576e.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Insegnante di 45 anni, passavo le giornate a correggere compiti strizzando gli occhi. Dopo anni, avevo profonde rughe attorno agli occhi che mi facevano sembrare sempre stanca. I genitori dei miei alunni mi chiedevano se stavo bene! <strong>Due mesi</strong> di trattamento quotidiano <strong>(10 minuti) </strong>e le zampe di gallina sono completamente scomparse.<br/><strong>Francesca.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_9xip6Y": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/53.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Sviluppatrice web, passo 10 ore al giorno davanti agli schermi strizzando gli occhi. A soli 35 anni, avevo già piccole rughe che iniziavano a scavarsi agli angoli degli occhi. Le mie amiche mi prendevano in giro dicendo che era il prezzo della tecnologia! 6 settimane di utilizzo durante le pause caffè ed è magico: nessuna traccia di fatica digitale. Il mio ragazzo dice che sembro di nuovo una 25enne.</p>",
+            "content": "<p>La punta rimovibile è geniale—la pulisco e la butto nel bagaglio a mano. L'ho usata su un volo notturno e sono atterrata con un aspetto riposato. Anche la batteria dura un'eternità.<br/><strong>Angela.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -334,16 +334,16 @@
         }
       },
       "block_order": [
-        "item_Gj6DN7",
-        "item_XxWq4H",
-        "item_Cg86AM",
+        "item_3tg7q7",
+        "item_9xip6Y",
         "item_qcYt3T",
+        "item_Gj6DN7",
+        "item_Cg86AM",
         "item_3VNKEt",
         "item_74dFBf",
         "item_QRaMUn",
         "item_Te6mAz",
-        "item_3tg7q7",
-        "item_9xip6Y"
+        "item_XxWq4H"
       ],
       "name": "Multi-column",
       "settings": {
