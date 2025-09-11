@@ -475,6 +475,14 @@
             "product": "oraskin-radiance-eye-cream"
           }
         },
+        "image_KrN4Hz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/benefices_oravia_010b2b90-7cf5-4a60-8104-625b49714047.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "essential_countdown_timer_app_block_BJArmd": {
           "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "settings": {
@@ -591,6 +599,7 @@
         "badges_A9mnxh",
         "price_YGf44t",
         "kaching_bundles_app_block_bKxYBL",
+        "image_KrN4Hz",
         "essential_countdown_timer_app_block_BJArmd",
         "rating_dxBfVn",
         "description_rBLFhf",
