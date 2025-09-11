@@ -213,19 +213,6 @@
             "link_style": "link"
           }
         },
-        "item_Gj6DN7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/46_5fc725bd-e136-4f0c-98c7-6fa433d10349.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h6",
-            "content": "<p>Sono un'infermiera che lavora turni di notte di 12 ore; all'alba ho gli occhi gonfi e stanchi. Cinque minuti con la punta a LED rossi e tutto si sgonfia. I colleghi continuano a chiedermi se ho dormito otto ore (non è così!).<br/><strong>Maria.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_Cg86AM": {
           "type": "item",
           "settings": {
@@ -239,14 +226,14 @@
             "link_style": "link"
           }
         },
-        "item_3VNKEt": {
+        "item_Gj6DN7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/47.png",
+            "image": "shopify://shop_images/46_5fc725bd-e136-4f0c-98c7-6fa433d10349.png",
             "column_size": "3",
             "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Contabile di 49 anni, tra schermi e notti corte durante i periodi di bilancio, avevo sviluppato delle vere borse sotto gli occhi con rughe marcate. I miei clienti mi chiedevano se stavo male! Nemmeno il correttore riusciva più a nasconderle. Dopo 8 settimane di uso quotidiano (5 minuti mentre bevo il tè del mattino), i miei occhi hanno ritrovato la giovinezza. La mia collega mi ha detto che sembrava riposata per la prima volta da anni!<br/><strong>Nancy.</strong></p>",
+            "heading_tag": "h6",
+            "content": "<p>Sono un'infermiera che lavora turni di notte di 12 ore; all'alba ho gli occhi gonfi e stanchi. Cinque minuti con la punta a LED rossi e tutto si sgonfia. I colleghi continuano a chiedermi se ho dormito otto ore (non è così!).<br/><strong>Maria.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -260,6 +247,19 @@
             "title": "",
             "heading_tag": "h4",
             "content": "<p>Farmacista di 42 anni, avevo notato che il mio collo iniziava a raggrinzirsi leggermente - quelle piccole rughe orizzontali che compaiono di nascosto. I miei colleghi mi dicevano che era normale alla mia età, ma io non l'accettavo! Dopo 6 settimane di utilizzo mattutino (mentre faccio colazione), la mia pelle ha ritrovato la sua fermezza originale. Le prime rughe sono completamente scomparse. Mia madre mi ha detto che ho fatto bene ad agire prima che fosse troppo tardi!<br/><strong>Silvia.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3VNKEt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/47.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Contabile di 49 anni, tra schermi e notti corte durante i periodi di bilancio, avevo sviluppato delle vere borse sotto gli occhi con rughe marcate. I miei clienti mi chiedevano se stavo male! Nemmeno il correttore riusciva più a nasconderle. Dopo 8 settimane di uso quotidiano (5 minuti mentre bevo il tè del mattino), i miei occhi hanno ritrovato la giovinezza. La mia collega mi ha detto che sembrava riposata per la prima volta da anni!<br/><strong>Nancy.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -310,10 +310,10 @@
         "item_3tg7q7",
         "item_qcYt3T",
         "item_9xip6Y",
-        "item_Gj6DN7",
         "item_Cg86AM",
-        "item_3VNKEt",
+        "item_Gj6DN7",
         "item_74dFBf",
+        "item_3VNKEt",
         "item_QRaMUn",
         "item_Te6mAz",
         "item_XxWq4H"
