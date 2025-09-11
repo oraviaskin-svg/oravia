@@ -208,7 +208,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h6",
-            "content": "<p>Sono un'infermiera che lavora turni di notte di 12 ore; all'alba ho gli occhi gonfi e stanchi. Cinque minuti con la punta a LED rossi e tutto si sgonfia. I colleghi continuano a chiedermi se ho dormito otto ore (non è così!).</p>",
+            "content": "<p>Sono un'infermiera che lavora turni di notte di 12 ore; all'alba ho gli occhi gonfi e stanchi. Cinque minuti con la punta a LED rossi e tutto si sgonfia. I colleghi continuano a chiedermi se ho dormito otto ore (non è così!).<br/><strong>Maria.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -234,7 +234,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>I was skeptical but willing to try anything to help my neck. I am already seeing improvement and I'm really happy with the results so far.<strong>It is helping me feel better about myself!</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -243,11 +243,11 @@
         "item_qcYt3T": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/39.png",
+            "image": "shopify://shop_images/48.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Pensionata di 71 anni, evitavo gli specchi a causa del mio collo tutto rugoso e cadente. I miei nipotini mi dicevano gentilmente che avevo un collo come la loro tartaruga! Al mercato portavo sempre foulard per nascondere. <strong>Da 2 mesi, 15 minuti</strong> ogni sera davanti alle mie serie Netflix. Ora la mia vicina mi chiede se ho fatto chirurgia (certamente no alla mia età!). Le mie colleghe del circolo bridge non ci credono.<br/><strong>Giuseppina.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -260,7 +260,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Contabile di 49 anni, tra schermi e notti corte durante i periodi di bilancio, avevo sviluppato delle vere borse sotto gli occhi con rughe marcate. I miei clienti mi chiedevano se stavo male! Nemmeno il correttore riusciva più a nasconderle. Dopo 8 settimane di uso quotidiano (5 minuti mentre bevo il tè del mattino), i miei occhi hanno ritrovato la giovinezza. La mia collega mi ha detto che sembrava riposata per la prima volta da anni!<br/><strong>Nancy.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -273,7 +273,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Farmacista di 42 anni, avevo notato che il mio collo iniziava a raggrinzirsi leggermente - quelle piccole rughe orizzontali che compaiono di nascosto. I miei colleghi mi dicevano che era normale alla mia età, ma io non l'accettavo! Dopo 6 settimane di utilizzo mattutino (mentre faccio colazione), la mia pelle ha ritrovato la sua fermezza originale. Le prime rughe sono completamente scomparse. Mia madre mi ha detto che ho fatto bene ad agire prima che fosse troppo tardi!<br/><strong>Silvia.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -296,11 +296,37 @@
         "item_Te6mAz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/41.png",
-            "column_size": "4",
+            "image": "shopify://shop_images/43_4500b5dd-fde8-434d-82b3-5e70c3fbdf1a.png",
+            "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Casalinga di 62 anni, dopo anni di pulizie e stiratura sempre piegata in avanti, il mio collo era diventato un disastro - rughe ovunque e pelle che pendeva come un tendaggio! Quando andavo dal parrucchiere dovevo sempre chiedere di coprire con la mantella. Da quando uso questo apparecchio ogni sera (15 minuti mentre ascolto la radio), sembra un miracolo. Le mie amiche del mercato continuano a chiedermi quale crema uso (se sapessero!).</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3tg7q7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/50.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Insegnante di 45 anni, passavo le giornate a correggere compiti strizzando gli occhi. Dopo anni, avevo profonde rughe attorno agli occhi che mi facevano sembrare sempre stanca. I genitori dei miei alunni mi chiedevano se stavo bene! <strong>Due mesi</strong> di trattamento quotidiano <strong>(10 minuti) </strong>e le zampe di gallina sono completamente scomparse.<br/><strong>Francesca.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9xip6Y": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/53.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Sviluppatrice web, passo 10 ore al giorno davanti agli schermi strizzando gli occhi. A soli 35 anni, avevo già piccole rughe che iniziavano a scavarsi agli angoli degli occhi. Le mie amiche mi prendevano in giro dicendo che era il prezzo della tecnologia! 6 settimane di utilizzo durante le pause caffè ed è magico: nessuna traccia di fatica digitale. Il mio ragazzo dice che sembro di nuovo una 25enne.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -315,7 +341,9 @@
         "item_3VNKEt",
         "item_74dFBf",
         "item_QRaMUn",
-        "item_Te6mAz"
+        "item_Te6mAz",
+        "item_3tg7q7",
+        "item_9xip6Y"
       ],
       "name": "Multi-column",
       "settings": {
